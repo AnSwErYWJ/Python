@@ -30,3 +30,7 @@ print (L)
 L[0] = 'zero'
 L[-1] = 'four'
 print (L)
+
+#生成列表
+print [x*x for x in range(1,11)] 
+print [x*x for x in range(1,11) if x%2==0] 
