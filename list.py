@@ -8,6 +8,7 @@ L =['one',1,'two',2,'three',3]
 
 #访问
 print (L)
+print (len(L))
 print (L[0])
 print (L[-1]) #最后一个元素，-2为倒数第二个，以此类推
 
