@@ -1,3 +1,3 @@
-# Python
-Python exercise
+# Introduction
+ My python learning note.
 
