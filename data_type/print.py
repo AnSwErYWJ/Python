@@ -6,3 +6,5 @@
 print (100+200)
 print 'hello','world' 
 #python 3之前print不需要加括号，之后print为function，必须要加
+
+print 'hello'+'world' #+直接连接
