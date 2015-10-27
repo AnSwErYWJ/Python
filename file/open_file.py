@@ -9,5 +9,5 @@ print type(f)
 c = f.read()
 print c
 
-
 f.close()
+
