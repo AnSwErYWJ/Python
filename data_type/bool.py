@@ -11,4 +11,9 @@ print ('' or False)
 print (None or False)
 print (0 or False)
 
-
+a = 10 
+print type(a)
+a = '10' 
+print type(a)
+a = False 
+print type(a)
